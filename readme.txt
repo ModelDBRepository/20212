@@ -117,3 +117,6 @@ available from neuron web site.)
 If you have an earlier 5.x version of neuron on mswin you can use these files by 
 by cd'ing to the mechanisms directory and compiling the mod files there and then starting up 
 mosinit.hoc in the mechanisms directory (double clicking in mswin).
+20120112 Version: the euler methods in cad.mod and gabab.mod were updated to
+derivimplicit and cnexp as per
+http://www.neuron.yale.edu/phpbb/viewtopic.php?f=28&t=592
