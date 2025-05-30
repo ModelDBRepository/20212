@@ -107,6 +107,5 @@ December 4th, 2003
   The Euler methods in `cad.mod` and `gabab.mod` were updated to derivative implicit and cnexp as per
   [NEURON forum discussion](http://www.neuron.yale.edu/phpbb/viewtopic.php?f=28&t=592)
 
----
-
-2025-05-27 – Standardized to Markdown
+- **20250527**
+  Standardized to Markdown
